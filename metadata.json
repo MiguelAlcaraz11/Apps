@@ -1,0 +1,6 @@
+{
+  "name": "DuoJoy - App para Parejas",
+  "description": "Plataforma interactiva para parejas con juegos de preguntas, lista de deseos compartida, planificador de citas, chat privado, recuerdos y calendario especial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
